@@ -1,0 +1,32 @@
+/* YOUR STYLING HERE */
+.App {
+  background-color: #E5F3F4;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+body {
+    background-color: #E5F3F4;
+}
+
+.header {
+  background-color: #E5F3F4;
+  color: #3FBECA;
+  text-align: center;
+}
+.question {
+  color: #9F9791;
+  font-weight: bold;
+  display: inline-block;
+  padding-left: 20px;
+}
+
+.answer {
+  color: #9F9791;
+  font-weight: bold;
+  padding-left: 20px;
+  border-bottom: 2px solid;
+}
+
+.fa.fa-minus-square {
+  color: green;
+}
